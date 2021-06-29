@@ -1,8 +1,9 @@
 # hackytosh
-My OpenCore setup for safekeeping
+My OpenCore setups for safekeeping
 
-## Version
-REL-069-2021-05-03 (0.6.9)
+## Versions
+0.6.9
+0.7.0
 
 ## Hardware
 * Case: NZXT H510 - CA-H510B-W1 - Compact ATX Mid-Tower PC Gaming Case - Front I/O USB Type-C Port - Tempered Glass Side Panel - Cable Management System - Water-Cooling Ready - White/Black 
