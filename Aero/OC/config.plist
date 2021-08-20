@@ -1096,7 +1096,7 @@
 			<key>ScanPolicy</key>
 			<integer>0</integer>
 			<key>SecureBootModel</key>
-			<string>j680</string>
+			<string>Disabled</string>
 			<key>Vault</key>
 			<string>Optional</string>
 		</dict>
@@ -1143,7 +1143,7 @@
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
 				<key>boot-args</key>
-				<string>-cdfon -wegnoegpu -igfxblr=1</string>
+				<string>-wegnoegpu</string>
 				<key>prev-lang:kbd</key>
 				<data></data>
 				<key>run-efi-updater</key>
