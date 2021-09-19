@@ -1,10 +1,6 @@
 # hackytosh
 My OpenCore setups for safekeeping
 
-## Versions
-0.6.9
-0.7.0
-
 ## Hardware
 * Case: NZXT H510 - CA-H510B-W1 - Compact ATX Mid-Tower PC Gaming Case - Front I/O USB Type-C Port - Tempered Glass Side Panel - Cable Management System - Water-Cooling Ready - White/Black 
 * Motherboard: ASUS Prime Z390-P LGA1151 (Intel 8th and 9th Gen) ATX Motherboard for Cryptocurrency Mining(BTC) with Above 4G Decoding, 6xPCIe Slot and USB 3.1 Gen2 
