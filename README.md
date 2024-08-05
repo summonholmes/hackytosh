@@ -1,5 +1,5 @@
 # hackytosh
-My OpenCore setups for safekeeping
+My OpenCore setup for safekeeping
 
 ## Hardware
 * Case: NZXT H510 - CA-H510B-W1 - Compact ATX Mid-Tower PC Gaming Case - Front I/O USB Type-C Port - Tempered Glass Side Panel - Cable Management System - Water-Cooling Ready - White/Black 
@@ -11,5 +11,3 @@ My OpenCore setups for safekeeping
 * NVME: Sabrent 512GB Rocket NVMe PCIe M.2 2280 Internal SSD High Performance Solid State Drive (SB-ROCKET-512) 
 * HDD: Seagate BarraCuda 4TB Internal Hard Drive HDD – 3.5 Inch Sata 6 Gb/s 5400 RPM 256MB Cache For Computer Desktop PC – Frustration Free Packaging ST4000DMZ04/DM004 
 * Heatsink: Cooler Master Hyper 212 Evo CPU Cooler, 4 CDC Heatpipes, 120mm PWM Fan, Aluminum Fins for AMD Ryzen/Intel LG1151 
-
-
